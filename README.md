@@ -150,7 +150,7 @@ Open [http://localhost:3000](http://localhost:3000) 🎉
 
 ---
 
-## 🔐 OAuth Setup (Optional but Recommended)
+## 🔐 OAuth Setup
 
 ### Google OAuth
 1. Go to [console.cloud.google.com](https://console.cloud.google.com)
